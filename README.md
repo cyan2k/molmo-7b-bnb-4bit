@@ -1,5 +1,9 @@
 # Molmo-7B-O and Molmo-7B-D BnB 4bit quants
 
+Huggingface:
+
+https://huggingface.co/cyan2k/molmo-7B-O-bnb-4bit
+
 ## Create venv
 
 ```
