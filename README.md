@@ -22,7 +22,7 @@ source venv/bin/activate
 
 ## Install dependencies
 
-Fitting torch for your cuda version
+Fitting PyTorch for your cuda version
 ```
 (cuda 12.4)
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
