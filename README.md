@@ -12,7 +12,7 @@ python -m venv venv
 source venv/bin/activate
 
 (win)
-venv/bin/activate
+ .\venv\Scripts\activate
 ```
 
 
