@@ -31,9 +31,8 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 ```
 
 Additional stuff
-
 ```
-pip install einops tensorflow-cpu
+pip install einops tensorflow-cpu transformers accelerate bitsandbytes
 ```
 
 ## Run
