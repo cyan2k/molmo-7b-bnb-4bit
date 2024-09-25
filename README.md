@@ -39,4 +39,7 @@ pip install einops tensorflow-cpu
 ## Run
 
 ```
+python molmo-7B-O-bnb-4bit.py
+
+python molmo-7B-D-bnb-4bit.py
 ```
