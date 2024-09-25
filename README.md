@@ -4,6 +4,10 @@ Huggingface:
 
 https://huggingface.co/cyan2k/molmo-7B-O-bnb-4bit
 
+## Todo
+
+- Small Gradio/Streamlit/Shiny UI app
+
 ## Create venv
 
 ```
