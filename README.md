@@ -42,6 +42,7 @@ Additional stuff
 ```
 pip install einops tensorflow-cpu transformers accelerate bitsandbytes
 ```
+>  NOTE: If you use the "no_tensorflow" version of the script above you do not need to install tensorflow.  However, you MUST also replace the current version of ```image_preprocessing_molmo.py``` downloaded from the huggingface repo with the one in this repository above.
 
 ## Run
 
@@ -52,3 +53,4 @@ python molmo-7B-O-bnb-4bit.py
 
 python molmo-7B-D-bnb-4bit.py
 ```
+>  NOTE: If you use the "no_tensorflow" version of the script above you must enter into the script the hardcoded path to the model on your computer as well as a hardcoded path to the image you want to process.  As such, you must download the huggingface repo files first in order have a hardcoded path to specify.
